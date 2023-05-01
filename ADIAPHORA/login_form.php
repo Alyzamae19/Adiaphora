@@ -49,6 +49,7 @@ if(isset($_POST['submit'])){
 
    <!-- custom css file link  -->
    <link rel="stylesheet" href="css/style.css">
+   <link rel="manifest" href="manifest.json">
 
 </head>
 <body>
